@@ -1,2 +1,3 @@
-# CarpetaHenry
-crear un repositorio y sincronizarlo a la carpeta CarpetaHenry
+Homework 
+ejercicio 4 
+Lesly Janneth Bautista Cruz
